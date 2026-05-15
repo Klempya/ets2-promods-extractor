@@ -2,6 +2,12 @@
 
 A simple Windows batch script that automatically extracts **ProMods** multi-volume 7-Zip archives (`.7z.001`, `.7z.002`, …) with a single double-click — no command-line knowledge required.
 
+## ⬇️ Download
+
+**[➡️ Click here to download extract_promods.bat](https://github.com/Klempya/ets2-promods-extractor/blob/main/extract_promods.bat)**
+
+> Right-click the link above and choose **Save link as...** if the file opens in your browser instead of downloading.
+
 ---
 
 ## Table of Contents
